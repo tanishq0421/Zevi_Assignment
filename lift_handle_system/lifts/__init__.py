@@ -1,0 +1,1 @@
+from lift_handle_system.lifts.lift import Lift
